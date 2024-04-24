@@ -1,16 +1,11 @@
 # library_ets_5025201042_kelas_d
 
-A new Flutter project.
+Nama : Cindi Dwi Pramudita 
+NRP : 5025201042
+Kelas : PPB D
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot (428)](https://github.com/cindidwipramudita/library_ets_5025201042_kelas_d/assets/87058985/6ed76b00-4c2f-4955-b7b2-fc24a12635aa)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (429)](https://github.com/cindidwipramudita/library_ets_5025201042_kelas_d/assets/87058985/9570bcc4-5d95-4cc3-bcfa-e43ca4aa69fb)
