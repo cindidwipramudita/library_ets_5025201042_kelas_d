@@ -1,8 +1,10 @@
 # library_ets_5025201042_kelas_d
 
-Nama : Cindi Dwi Pramudita 
-NRP : 5025201042
-Kelas : PPB D
+<ol>Nama : Cindi Dwi Pramudita </ol>
+<ol>NRP : 5025201042 </ol>
+<ol>Kelas : PPB D</ol>
+
+
 
 ## Getting Started
 
